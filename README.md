@@ -154,4 +154,6 @@ python eggshell.py
 ## Follow us !
 [The404Hacking](https://T.me/The404Hacking) - [The404Cracking](https://T.me/The404Cracking)
 
-[]()
+[Instagram](https://instagram.com/The404Hacking) - [GitHub](https://github.com/The404Hacking)
+
+[YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/The404Hacking)
