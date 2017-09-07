@@ -50,7 +50,7 @@ By using EggShell, you agree to the GNU General Public License v2.0 included in 
 
 ## Installation
 ```sh
-git clone https://github.com/neoneggplant/EggShell && cd EggShell
+git clone https://github.com/The404Hacking/EggShell-RAT && cd EggShell-RAT
 easy_install pycrypto
 python eggshell.py
 ```
@@ -147,3 +147,6 @@ python eggshell.py
 ## Notes
 * Supports Python 2.7.x
 * Expect Updates :)
+
+## The404Hacking
+(The404Hacking)[https://T.me/The404Hacking]
