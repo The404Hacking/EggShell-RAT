@@ -7,7 +7,7 @@ EggShell is an iOS and macOS post exploitation surveillance pentest tool written
 
 For detailed information and howto visit http://lucasjackson.me/eggshell
 
-Follow me on twitter: @neoneggplant
+Follow: [@The404Hacking](https://T.me/The404Hacking)
 
 ## Creating And Running A Payload
 EggShell gives us a convenient 1 line payload and listener on our local machine
@@ -148,5 +148,10 @@ python eggshell.py
 * Supports Python 2.7.x
 * Expect Updates :)
 
-## The404Hacking
-(The404Hacking)[https://T.me/The404Hacking]
+## The404Hacking | Digital UnderGround Team
+[The404Hacking](https://T.me/The404Hacking)
+
+## Follow us !
+[The404Hacking](https://T.me/The404Hacking) - [The404Cracking](https://T.me/The404Cracking)
+
+[]()
