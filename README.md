@@ -12,33 +12,33 @@ Follow: [@The404Hacking](https://T.me/The404Hacking)
 ## Creating And Running A Payload
 EggShell gives us a convenient 1 line payload and listener on our local machine
 
-[![](http://lucasjackson.me/images/eggshell/2.2.1/startup1.png)](http://lucasjackson.me/eggshell)
+[![](http://lucasjackson.me/images/eggshell/2.2.1/startup1.png)](https://T.me/The404Hacking)
 
 On the target machine, after the payload is run, we will get a connection back
 
-[![](http://lucasjackson.me/images/eggshell/2.2.1/runpayload.png)](http://lucasjackson.me/eggshell)
+[![](http://lucasjackson.me/images/eggshell/2.2.1/runpayload.png)](https://T.me/The404Hacking)
 
-[![](http://lucasjackson.me/images/eggshell/2.2.1/connectback.png)](http://lucasjackson.me/eggshell)
+[![](http://lucasjackson.me/images/eggshell/2.2.1/connectback.png)](https://T.me/The404Hacking)
 
 ## Taking Pictures
 Eggshell has the command functionality of taking pictures on both iOS(frontcam/backcam) and macOS(picture)
 
-[![](http://lucasjackson.me/images/eggshell/2.2.1/osxpicture.png)](http://lucasjackson.me/eggshell)
+[![](http://lucasjackson.me/images/eggshell/2.2.1/osxpicture.png)](https://T.me/The404Hacking)
 
 ## Password Prompt / Root Privileges
 With the prompt command, we can have a password pop up information retrieval + built in privilege escalation
 
-[![](http://lucasjackson.me/images/eggshell/2.2.1/osxprompt.png)](http://lucasjackson.me/eggshell)
+[![](http://lucasjackson.me/images/eggshell/2.2.1/osxprompt.png)](https://T.me/The404Hacking)
 
-[![](http://lucasjackson.me/images/eggshell/2.2.1/escalateosx.png)](http://lucasjackson.me/eggshell)
+[![](http://lucasjackson.me/images/eggshell/2.2.1/escalateosx.png)](https://T.me/The404Hacking)
 
 ## Sending SMS through iMessage
-[![](http://lucasjackson.me/images/eggshell/2.2.1/osximessage.png)](http://lucasjackson.me/eggshell)
+[![](http://lucasjackson.me/images/eggshell/2.2.1/osximessage.png)](https://T.me/The404Hacking)
 
 ## Interacting With Multiple Sessions
 MultiSession gives us easy access to interacting and managing multiple sessions
 
-[![](http://lucasjackson.me/images/eggshell/multisessioninteractpictures.png)](http://lucasjackson.me/eggshell)
+[![](http://lucasjackson.me/images/eggshell/multisessioninteractpictures.png)](https://T.me/The404Hackingl)
 
 ## Featured
 Featured in EverythingApplePro's video demonstrating an iOS 9.3.3 Webkit vulnerability used to run EggShell
