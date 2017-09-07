@@ -157,3 +157,5 @@ python eggshell.py
 [Instagram](https://instagram.com/The404Hacking) - [GitHub](https://github.com/The404Hacking)
 
 [YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/The404Hacking)
+
+[The404Hacking.BlogSky.Com](http://the404hacking.blogsky.com)
